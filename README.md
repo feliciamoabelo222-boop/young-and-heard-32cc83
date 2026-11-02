@@ -150,7 +150,7 @@ Feedback on Part 2 showed the layout and navigation menu were not adapting to di
 ---
 
 ## 9. Changelog
-
+| Changelog line: Added accordion, dynamic service list loaded from offerings.json, and search, category filter and sorting (services.js) to services.html.
 ### Changes made from Part 2 feedback
 
 | Date | File(s) | Change | Reason |
