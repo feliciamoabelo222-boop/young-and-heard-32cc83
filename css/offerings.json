@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Peer Support Circles",
+    "category": "Support",
+    "cost": "Free",
+    "description": "Small, guided groups where young people talk openly about anxiety, depression and everyday stress.",
+    "details": "Circles meet weekly for about an hour and are led by trained facilitators. Groups are matched by age (13 to 17 and 18 to 24)."
+  },
+  {
+    "name": "School Programmes",
+    "category": "Education",
+    "cost": "Free for schools",
+    "description": "Workshops and talks that bring mental health education into classrooms.",
+    "details": "Programmes run for one to four sessions and cover stress, bullying, healthy habits and how to ask for help. Schools book about a month ahead."
+  },
+  {
+    "name": "Referral Counselling",
+    "category": "Referral",
+    "cost": "Varies by counsellor",
+    "description": "Connections to qualified counsellors who understand what it is like to be young today.",
+    "details": "We match you with a registered counsellor near you or online. Some counsellors offer reduced rates, and referrals happen within about two weeks."
+  },
+  {
+    "name": "Parent and Teacher Guidance",
+    "category": "Education",
+    "cost": "Free",
+    "description": "Guidance on recognising the signs and starting the conversation.",
+    "details": "Short online sessions and printable guides for parents, teachers and caregivers."
+  }
+]
